@@ -46,7 +46,7 @@ GitHub 目标为 `https://github.com/ZhouYinLong-lab/Dog-ADHD`。原消息 URL �
 
 ## Git 整理与同步
 
-初始整包提交 `45f1190` 保留在本地 `codex/archive-initial`（原 `main` 暂仍指向该提交）。新历史在 `codex/modular-import` 上构建，原有材料已拆成五个模块提交：
+初始整包提交 `45f1190` 保留在本地 `codex/archive-initial`。新历史在 `codex/modular-import` 上构建后已切回本地 `main`，跟踪 `origin/main`。原有材料拆成五个模块提交：
 
 1. `e853b35` 来源记录与采集工具。
 2. `0f2faf6` 初始研究报告。
@@ -54,7 +54,9 @@ GitHub 目标为 `https://github.com/ZhouYinLong-lab/Dog-ADHD`。原消息 URL �
 4. `4c8cc6b` 24 组冒烟材料。
 5. `ffeccb3` 项目说明与初始交接。
 
-远程 `origin` 已连接到指定仓库。审查、提示词、评测和最终交接将继续分别提交，再正常推送至远程 `main`；同步完成后在此更新状态。只推送主线，不上传归档分支或第三方快照，不使用强制推送。
+新增内容也分别提交：`fc5a632` 候选审查与阶段交接、`a8c6605` 提示词 0.2、`6e569d2` 对照与回归材料、`6775663` 仓库信息与导航。上述 9 个提交已正常推送至远程 `main`，并用 `git ls-remote` 确认远程与本地均为 `6775663`；本次交接收尾记录另作一个提交同步。
+
+只推送主线，没有上传归档分支、第三方快照或临时文件，没有使用强制推送。GitHub 默认分支确认为 `main`，仓库仍为 PUBLIC。后续在本地 `main` 持续工作，不要把归档分支合并回发布主线。
 
 ## 下一步
 

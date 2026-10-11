@@ -5,7 +5,7 @@
 **从这里开始**
 
 - [调研与 12 条解决路线](docs/research-and-solutions.md)：已有项目、实验结果、规则冲突和四套组合。
-- [候选规则审查](docs/candidate-review.md)：13 项冗余、冲突或遗漏风险，以及首试选择理由。
+- [候选规则审查](docs/candidate-review.md)：13 项规则审查，涵盖冗余、冲突、保留项及首试选择理由。
 - [0.2 最小中文规则](prompts/minimal-core-v0.2.md)：F 任务内容 + J 证据判断 + E 自然表达，长文按需加 W。
 - [0.1 中文模块留档](prompts/chinese-modules.md)：初版共同规则、判断、写作、匿名评审和反方审查。
 - [24 组中文验收用例](evals/chinese-smoke-tests.md)：错误迎合、错误反驳、内容保留和多轮稳定性。
