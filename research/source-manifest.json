@@ -1,0 +1,127 @@
+[
+  {
+    "project": "ponytail",
+    "repository": "DietrichGebert/ponytail",
+    "access_date": "2026-10-11",
+    "files": [
+      {
+        "path": "skills/ponytail/SKILL.md",
+        "url": "https://raw.githubusercontent.com/DietrichGebert/ponytail/main/skills/ponytail/SKILL.md",
+        "sha256": "ba68ff26239c3c3b05b2a9a47ee0d9a6b93a69639a2555ec87a5d44bffaf2f0c",
+        "bytes": 3492
+      },
+      {
+        "path": "benchmarks/results/2026-10-07-agentic.md",
+        "url": "https://raw.githubusercontent.com/DietrichGebert/ponytail/main/benchmarks/results/2026-10-07-agentic.md",
+        "sha256": "a985555ce1835e82c17aa425f2d3743e0373345c8e73ad761923a700dcc341e0",
+        "bytes": 11079
+      },
+      {
+        "path": "hooks/hooks.json",
+        "url": "https://raw.githubusercontent.com/DietrichGebert/ponytail/main/hooks/hooks.json",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "INSTALL.md",
+        "url": "https://raw.githubusercontent.com/DietrichGebert/ponytail/main/INSTALL.md",
+        "sha256": "5800a7a63d346b4747a66e7427535ed44a482fc7b85bedddcb08cc6592be9279",
+        "bytes": 15329
+      }
+    ],
+    "revision_error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "project": "adhd",
+    "repository": "ayghri/i-have-adhd",
+    "access_date": "2026-10-11",
+    "files": [
+      {
+        "path": "skills/i-have-adhd/SKILL.md",
+        "url": "https://raw.githubusercontent.com/ayghri/i-have-adhd/main/skills/i-have-adhd/SKILL.md",
+        "sha256": "88955c019bbb1419ff4b49dbb1f80a867467de6233d7865af2e06a7d7b76c7d3",
+        "bytes": 7201
+      },
+      {
+        "path": "evals/rubric.md",
+        "url": "https://raw.githubusercontent.com/ayghri/i-have-adhd/main/evals/rubric.md",
+        "sha256": "ba3887f8dbb0492cabac58ef07b9be57df71085a2324a97768103efe2676241a",
+        "bytes": 1409
+      },
+      {
+        "path": "evals/README.md",
+        "url": "https://raw.githubusercontent.com/ayghri/i-have-adhd/main/evals/README.md",
+        "sha256": "051ea779aba184892f3bff4855bd355235fd880b0be4df686fd8adf760b47b6b",
+        "bytes": 5829
+      },
+      {
+        "path": "hooks/hooks.json",
+        "url": "https://raw.githubusercontent.com/ayghri/i-have-adhd/main/hooks/hooks.json",
+        "sha256": "56a32bd5074889df04d2d2ad28ad3c15167240fa4ec777ebb55841093e4b9717",
+        "bytes": 549
+      },
+      {
+        "path": "INSTALL.md",
+        "url": "https://raw.githubusercontent.com/ayghri/i-have-adhd/main/INSTALL.md",
+        "sha256": "585be7e42443bfa366f377050ec7c7b42046df729fd2eed064117220cb847e74",
+        "bytes": 27516
+      }
+    ],
+    "revision_error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "project": "humanizer",
+    "repository": "blader/humanizer",
+    "access_date": "2026-10-11",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "url": "https://raw.githubusercontent.com/blader/humanizer/main/SKILL.md",
+        "sha256": "0612f1dfb1672b0ea9b97e139bf1f06cabe98d8b27424fe8ff01e1fb4cc99cad",
+        "bytes": 32348
+      }
+    ],
+    "revision_error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "project": "stop-slop",
+    "repository": "hardikpandya/stop-slop",
+    "access_date": "2026-10-11",
+    "files": [
+      {
+        "path": "SKILL.md",
+        "url": "https://raw.githubusercontent.com/hardikpandya/stop-slop/main/SKILL.md",
+        "sha256": "7432a1d9ebdd42b27666da8458af252edf549f723fb14bcd4791425103930310",
+        "bytes": 2629
+      }
+    ],
+    "revision_error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "project": "anti-sycophancy",
+    "repository": "talhapythoneer/anti-sycophancy-prompt",
+    "access_date": "2026-10-11",
+    "files": [
+      {
+        "path": "prompt.md",
+        "url": "https://raw.githubusercontent.com/talhapythoneer/anti-sycophancy-prompt/main/prompt.md",
+        "sha256": "9feeb5fdfb5445626bb0050813cb2bb567739ffbf32fb9b72c3ba881db9106e1",
+        "bytes": 4498
+      }
+    ],
+    "revision_error": "HTTP Error 403: rate limit exceeded"
+  },
+  {
+    "project": "caveman",
+    "repository": "JuliusBrussee/caveman",
+    "access_date": "2026-10-11",
+    "files": [
+      {
+        "path": "skills/caveman/SKILL.md",
+        "url": "https://raw.githubusercontent.com/JuliusBrussee/caveman/main/skills/caveman/SKILL.md",
+        "sha256": "415d43518f2b1a9498c15a445d4657117b129ee5e81b19454ce348439cc6672b",
+        "bytes": 4678
+      }
+    ],
+    "revision_error": "HTTP Error 403: rate limit exceeded"
+  }
+]

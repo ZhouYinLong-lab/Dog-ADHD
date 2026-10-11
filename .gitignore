@@ -1,0 +1,9 @@
+/work/
+/research/source-snapshots/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
