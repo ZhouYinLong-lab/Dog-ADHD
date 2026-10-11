@@ -10,4 +10,4 @@
 - 原始第三方快照位于 `research/source-snapshots/`，默认不提交。来源及哈希记录保存在 `research/source-manifest.json`。
 - 每次取得实质进展后更新 `HANDOFF.md`，说明完成内容、实际验证与待办。
 
-GitHub 仓库名称和公开／私有设置仍待用户决定。当前只维护本地仓库。
+GitHub 目标由用户指定为 `https://github.com/ZhouYinLong-lab/Dog-ADHD`（原消息链接末尾的句点已核实为多余）。2026-10-11 查询到仓库为公开；保持现有可见性，按模块提交并同步。原始第三方快照与 `work/` 仍不提交。收费模型评测必须先明确预算并取得授权。
